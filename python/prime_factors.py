@@ -3,7 +3,7 @@
 n = 1234567890
 
 def find_factors(n):
-  m = 1
+  m = 5
   p = 1
   if n <= 0:
     return 0
